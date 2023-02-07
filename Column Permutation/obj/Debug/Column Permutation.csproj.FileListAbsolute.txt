@@ -1,0 +1,45 @@
+C:\Users\carloandanar\source\repos\Column Permutation\Column Permutation\bin\Debug\Column Permutation.exe.config
+C:\Users\carloandanar\source\repos\Column Permutation\Column Permutation\bin\Debug\Column Permutation.exe
+C:\Users\carloandanar\source\repos\Column Permutation\Column Permutation\bin\Debug\Column Permutation.pdb
+C:\Users\carloandanar\source\repos\Column Permutation\Column Permutation\obj\Debug\Column Permutation.csprojResolveAssemblyReference.cache
+C:\Users\carloandanar\source\repos\Column Permutation\Column Permutation\obj\Debug\MainWindow.g.cs
+C:\Users\carloandanar\source\repos\Column Permutation\Column Permutation\obj\Debug\App.g.cs
+C:\Users\carloandanar\source\repos\Column Permutation\Column Permutation\obj\Debug\Column Permutation_MarkupCompile.cache
+C:\Users\carloandanar\source\repos\Column Permutation\Column Permutation\obj\Debug\Column Permutation_MarkupCompile.lref
+C:\Users\carloandanar\source\repos\Column Permutation\Column Permutation\obj\Debug\MainWindow.baml
+C:\Users\carloandanar\source\repos\Column Permutation\Column Permutation\obj\Debug\Column Permutation.g.resources
+C:\Users\carloandanar\source\repos\Column Permutation\Column Permutation\obj\Debug\Column_Permutation.Properties.Resources.resources
+C:\Users\carloandanar\source\repos\Column Permutation\Column Permutation\obj\Debug\Column Permutation.csproj.GenerateResource.cache
+C:\Users\carloandanar\source\repos\Column Permutation\Column Permutation\obj\Debug\Column Permutation.csproj.CoreCompileInputs.cache
+C:\Users\carloandanar\source\repos\Column Permutation\Column Permutation\obj\Debug\Column Permutation.exe
+C:\Users\carloandanar\source\repos\Column Permutation\Column Permutation\obj\Debug\Column Permutation.pdb
+E:\C#\Column Permutation\Column Permutation\bin\Debug\Column Permutation.exe.config
+E:\C#\Column Permutation\Column Permutation\bin\Debug\Column Permutation.exe
+E:\C#\Column Permutation\Column Permutation\bin\Debug\Column Permutation.pdb
+E:\C#\Column Permutation\Column Permutation\obj\Debug\MainWindow.g.cs
+E:\C#\Column Permutation\Column Permutation\obj\Debug\App.g.cs
+E:\C#\Column Permutation\Column Permutation\obj\Debug\Column Permutation_MarkupCompile.cache
+E:\C#\Column Permutation\Column Permutation\obj\Debug\Column Permutation_MarkupCompile.lref
+E:\C#\Column Permutation\Column Permutation\obj\Debug\MainWindow.baml
+E:\C#\Column Permutation\Column Permutation\obj\Debug\Column Permutation.g.resources
+E:\C#\Column Permutation\Column Permutation\obj\Debug\Column_Permutation.Properties.Resources.resources
+E:\C#\Column Permutation\Column Permutation\obj\Debug\Column Permutation.csproj.GenerateResource.cache
+E:\C#\Column Permutation\Column Permutation\obj\Debug\Column Permutation.csproj.CoreCompileInputs.cache
+E:\C#\Column Permutation\Column Permutation\obj\Debug\Column Permutation.exe
+E:\C#\Column Permutation\Column Permutation\obj\Debug\Column Permutation.pdb
+D:\C#\Column Permutation\Column Permutation\bin\Debug\Column Permutation.exe.config
+D:\C#\Column Permutation\Column Permutation\bin\Debug\Column Permutation.exe
+D:\C#\Column Permutation\Column Permutation\bin\Debug\Column Permutation.pdb
+D:\C#\Column Permutation\Column Permutation\obj\Debug\Column Permutation.csprojAssemblyReference.cache
+D:\C#\Column Permutation\Column Permutation\obj\Debug\MainWindow.g.cs
+D:\C#\Column Permutation\Column Permutation\obj\Debug\App.g.cs
+D:\C#\Column Permutation\Column Permutation\obj\Debug\Column Permutation_MarkupCompile.cache
+D:\C#\Column Permutation\Column Permutation\obj\Debug\Column Permutation_MarkupCompile.lref
+D:\C#\Column Permutation\Column Permutation\obj\Debug\MainWindow.baml
+D:\C#\Column Permutation\Column Permutation\obj\Debug\Column Permutation.g.resources
+D:\C#\Column Permutation\Column Permutation\obj\Debug\Column_Permutation.Properties.Resources.resources
+D:\C#\Column Permutation\Column Permutation\obj\Debug\Column Permutation.csproj.GenerateResource.cache
+D:\C#\Column Permutation\Column Permutation\obj\Debug\Column Permutation.csproj.CoreCompileInputs.cache
+D:\C#\Column Permutation\Column Permutation\obj\Debug\Column Permutation.exe
+D:\C#\Column Permutation\Column Permutation\obj\Debug\Column Permutation.pdb
+E:\C#\Column Permutation\Column Permutation\obj\Debug\Column Permutation.csprojResolveAssemblyReference.cache

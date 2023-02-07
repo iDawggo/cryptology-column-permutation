@@ -1,0 +1,46 @@
+﻿<Window x:Class="Column_Permutation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Column_Permutation"
+        mc:Ignorable="d"
+        Title="Column Permutation" Height="500" Width="1000">
+    <Grid>
+        <TabControl HorizontalAlignment="Left" Height="450" Margin="10,10,0,0" VerticalAlignment="Top" Width="700">
+            <TabItem Header="Input and Output">
+                <Grid Background="White">
+                    <ScrollViewer HorizontalAlignment="Center" Height="150" Margin="0,31,0,0" VerticalAlignment="Top" Width="674">
+                        <TextBox x:Name="inputTxt" TextWrapping="Wrap" Text="" TextChanged="inputTxt_TextChanged"/>
+                    </ScrollViewer>
+                    <ScrollViewer HorizontalAlignment="Center" Height="150" Margin="0,242,0,0" VerticalAlignment="Top" Width="674">
+                        <TextBlock x:Name="outputTxt" TextWrapping="Wrap" Text=""/>
+                    </ScrollViewer>
+                    <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Ciphertext Input" VerticalAlignment="Top"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="10,221,0,0" TextWrapping="Wrap" Text="Plaintext Output" VerticalAlignment="Top"/>
+                    <Button x:Name="txtDecrypt" Content="Decrypt Ciphertext" HorizontalAlignment="Left" Margin="10,181,0,0" VerticalAlignment="Top" Width="118" Click="txtDecrypt_Click"/>
+                    <TextBlock x:Name="errorsTxtIO" HorizontalAlignment="Left" Margin="133,183,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Rectangles and Vowel Differences">
+                <Grid Background="White">
+                    <Button x:Name="calcPrVd" Content="Calculate Possible Rectangles and Vowel Differences" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="289" Height="50" Click="calcPrVd_Click" Grid.ColumnSpan="2"/>
+                    <DataGrid x:Name="rectangleDg" HorizontalAlignment="Left" Height="347" Margin="10,65,0,0" VerticalAlignment="Top" Width="674" CanUserResizeColumns="False" CanUserResizeRows="False" CanUserAddRows="False" CanUserDeleteRows="False" Grid.ColumnSpan="2"/>
+                    <TextBlock x:Name="errorsRectVd" HorizontalAlignment="Left" Margin="304,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Centiban and Column Permutation">
+                <Grid Background="White">
+                    <DataGrid x:Name="textDg" HorizontalAlignment="Center" Height="377" Margin="0,35,0,0" VerticalAlignment="Top" Width="674" CanUserResizeColumns="False" CanUserSortColumns="False" CanUserResizeRows="False" CanUserDeleteRows="False" CanUserAddRows="False"/>
+                    <TextBox x:Name="numColTxt" HorizontalAlignment="Left" Height="20" Margin="125,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Number of Columns:" VerticalAlignment="Top" Height="20" Grid.ColumnSpan="2"/>
+                    <Button x:Name="calcDataTab" Content="Calculate Data Table" HorizontalAlignment="Left" Margin="250,10,0,0" VerticalAlignment="Top" Width="184" Click="calcDataTab_Click"/>
+                    <TextBlock x:Name="errorsTxtDataTab" HorizontalAlignment="Left" Margin="439,12,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <DataGrid x:Name="centibanDg" HorizontalAlignment="Left" Height="428" Margin="715,32,0,0" VerticalAlignment="Top" Width="275" CanUserResizeRows="False" CanUserDeleteRows="False" CanUserAddRows="False"/>
+        <TextBlock HorizontalAlignment="Left" Margin="715,13,0,0" TextWrapping="Wrap" Text="Centiban Sums:" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
